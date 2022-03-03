@@ -1,7 +1,11 @@
+Name - Unfair Joyride
+
 Game Design Elememet 
-1) pc and Npc - playing charecter and not playing charecter 
-2)goal of player 
-3)Rules of Game
+1) pc and Npc - playing charecter and not playing charecter - butterfly,NPC - bg obstacle clouds viruses and ultra wave 
+2)goal of player - survive 
+3)Rules of Game :
+# life will be diducted from all life 
+# if viruses will catch us it will be there for 30 secs 
 4) balance 
 5) Adaptivity 
 6) chance amd Skills 
